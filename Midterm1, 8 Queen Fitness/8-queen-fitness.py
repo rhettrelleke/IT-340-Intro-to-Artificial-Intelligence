@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 12 08:37:08 2017
+Created on Thu Jan 12 08:37:08 2023
 
-@author: xfang13
+@author: Rhett
 
 """
 MUTATION_RATE = 0.4
